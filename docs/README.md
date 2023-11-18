@@ -10,7 +10,7 @@ Clean Audio is an umbrella name for a number of projects including a [Discord se
 * Discord Server: Community, podcasts, discussions, advanced bot, amazing staff, and more.
 * Discord Bot: Versitile, jhsabduygdiygasdui .
 
-##Quick Links
+## Quick Links
 * Website: https://cleanaudio.live/
 * Discord Server: [[Invite Link]](https://discord.com/invite/mhp5bmnZ5X/)
 * Discord Bot: https://cleanaudio.live/bot.html
