@@ -1,6 +1,6 @@
 # Clean Audio
 ## Overview
-Clean Audio is an umbrella name for a number of projects including a [Discord server](https://discord.com/invite/mhp5bmnZ5X/), podcast, discord bot, Minecraft server, and more.
+Clean Audio is an umbrella name for a number of projects including a [Discord server](https://discord.com/invite/mhp5bmnZ5X/), [podcast](https://www.youtube.com/@cleanaudiopodcast), [discord bot](https://cleanaudio.live/bot.html), [Minecraft server](https://discord.gg/H9c7HAKX8t), and [more](https://cleanaudio.live/).
 
 ## Clean Audio Stuff
 * Website: Access podcasts and additional resources.
