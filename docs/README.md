@@ -16,7 +16,7 @@ Clean Audio is an umbrella name for a number of projects including a [Discord se
 * Discord Bot: https://cleanaudio.live/bot.html
 * Podcast (Youtube): https://www.youtube.com/@cleanaudiopodcast
 * Minecraft server: Java - `play.cleanaudio.live` Bedrock - IP= `142.44.255.47` Port= `25583`
-* Ai: Test on [Discord](https://discord.gg/2Uc5eZvcSW)
+* Ai: Test on [Discord](https://discord.gg/2Uc5eZvcSW) or on [Aelius](https://aelius.live/)
 
 ## Support
 For help, join our Discord server or raise an issue on this repo.
