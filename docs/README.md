@@ -8,11 +8,12 @@ Clean Audio is an umbrella name for a number of projects of mine including my di
 * AI: Free AI text and image generation with no sign up on the discord server.
 * Minecraft server: Some gaming to go with the rest, more info about it on the discord server.
 * Discord Server: Community, podcasts, discussions, advanced bot, amazing staff, and more.
+* Discord Bot: Versitile, jhsabduygdiygasdui .
 
-* Discord Bot: Versitile .
-Quick Links
-Website: [[Link](https://cleanaudio.live/)]
-Discord Server: [Invite Link]
-Bot Installation: [Link]
-Support
+##Quick Links
+* Website: [[Link](https://cleanaudio.live/)]
+* Discord Server: [Invite Link]
+* Bot: [Link]
+
+## Support
 For help, join our Discord server or raise an issue on this repo.
