@@ -1,6 +1,6 @@
 # Clean Audio
 ## Overview
-Clean Audio is an umbrella name for a number of projects of mine including my discord server, podcast, discord bot, Minecraft server, and more.
+Clean Audio is an umbrella name for a number of projects including a [Discord server(https://discord.gg/7fDf65CpHr)], podcast, discord bot, Minecraft server, and more.
 
 ## Clean Audio Stuff
 * Website: Access podcasts and additional resources.
@@ -11,7 +11,7 @@ Clean Audio is an umbrella name for a number of projects of mine including my di
 * Discord Bot: Versitile, jhsabduygdiygasdui .
 
 ##Quick Links
-* Website: [[Link](https://cleanaudio.live/)]
+* Website: https://cleanaudio.live/
 * Discord Server: [Invite Link]
 * Bot: [Link]
 
